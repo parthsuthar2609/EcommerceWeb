@@ -15,7 +15,7 @@ To get started with the project, simply clone the repository and customize the H
 
 ## Demo
 
-Check out the live demo [here](#) [Replace with your demo link if applicable].
+Check out the live demo https://github.com/parthsuthar2609/EcommerceWeb/tree/main/ProjectEC
 
 We hope you find this project useful for your E-commerce endeavors. If you have any questions or suggestions, feel free to reach out!
 
